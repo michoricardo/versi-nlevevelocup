@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\bin\Debug\velocupproyecto.exe.config
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\bin\Debug\velocupproyecto.exe
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\bin\Debug\velocupproyecto.pdb
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.Properties.Resources.resources
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.splicevelocup.resources
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.exe
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.pdb
+C:\Users\DELL\source\repos\velocupproyecto\velocupproyecto\obj\Debug\velocupproyecto.principalvelo.resources
